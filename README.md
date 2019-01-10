@@ -4,7 +4,9 @@
 (基于深度学习的图像检索系统的简易实现)
 =========================================================================
 
-<center> ![cbir-system](https://github.com/l-i-p-f/cbir_resnet/blob/master/cbir_system.jpg) </center>
+<p align="center"> 
+<img src="https://github.com/l-i-p-f/cbir_resnet/blob/master/cbir_system.jpg">
+</p>
 
 Steps:
  1. Pretrain a classfication model.
